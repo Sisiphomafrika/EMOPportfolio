@@ -41,6 +41,31 @@
          "link": ""
        }
      ],
+    "education": [
+       {
+        "id": 1,
+      "year": 2023,
+      "description": "I currently studying web development",
+      "place": "Life Choices",
+      "type": "certificate"
+           
+       },
+       {
+         "id": 1,
+      "year": 2019,
+      "description": "grade 12",
+      "place": "philliph high school",
+      "type": "certificate"
+       },
+       {
+         "id": 1,
+      "year": 2023,
+      "description": "I currently studying web development",
+      "place": "False Bay Collage",
+      "type": "End-User Computer"
+       },
+       
+     ],
      "Testimonial": [
        {
          "name": "Azasiphe",
