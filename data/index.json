@@ -1,139 +1,75 @@
-{"data":[
+{
+  "data": {
     "education": [
-        {
-            "id": 1,
-            "year": 2019,
-            "description": "Grade 12",
-            "place": "Philliph High School",
-            
-        {
-            "id": 2,
-            "year": 2020-2022,
-            "description": "certificate",
-            "place": "False Bay Collage",
-            
-        },
-        {
-            "id": 3,
-            "year": 2023 ,
-            "description": "BootCamp",
-            "place": "LifeChoices Academy",
-            "picture": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRlDGnie83HMZdVXdK2IJkwErE5WDAIKu60ditxpiw-QXfHd-VHPcLaLbPoYK3nAi0cb3bwD_wptZTR4O3X6Vamo9gv3g=w600-h1300"
-        },
-          "skills": [
-        {
-            "title": "bootstrap",
-            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRVNgxGolM8T37PJks65TZ9Fn3_E3EKO-RkXol9HIz0f-YgrPMb0_qB8I-yXziKT87l62FZh1kHxLTW-B95sqFxNP5m=w600-h1300"
-        },
-        {
-            "title": "JAVA SCRIPT",
-            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYT6nBTj_kJ6d40ZA_3yfbfWvpkGFNlDz7V5XooR_vMLjRbc5Z4yKJHLjxoP01JvB9JM6WFnTL2qZBjPrS-IliHkc4RPaQ=w600-h1300"
-        },
-        {
-            "title": "CSS",
-            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRFu8Ohk0zbUmym8luFGoX7HhyoeMig07yCSDAOGoG2BBQeaDdBz5AxolCemV6pzSfD_t0jr1KjcbzsQHyIQbUyZYFVnA=w600-h1300"
-        },
-        {
-            "title": "HTML",
-            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYREnG3rLB1RfAL-C2hOqabrwo4pC5AP0ePGpOpiSrWqn88vnAP20_bt5kIDqFHfkwMFtEJufC7NzXeTY7irnwlvQlCXog=w600-h1300"
-        }
+      {
+        "id": 1,
+        "year": 2019,
+        "description": "Grade 12",
+        "place": "Philliph High School"
+      },
+      {
+        "id": 2,
+        "year": 2020,
+        "description": "certificate",
+        "place": "False Bay Collage"
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "description": "BootCamp",
+        "place": "LifeChoices Academy",
+        "picture": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRlDGnie83HMZdVXdK2IJkwErE5WDAIKu60ditxpiw-QXfHd-VHPcLaLbPoYK3nAi0cb3bwD_wptZTR4O3X6Vamo9gv3g=w600-h1300"
+      }
     ],
-        "testimonials": [
-        {
-            "name": "Azisiphe",
-            "surname": "Ndoro",
-            "quotes": "Sisipho show the most enthusiasm in here work of anyone I've ever met. She has shown to be diligent because she always doing her work as meticulously as she possibly can. she has an incredible sense of humor an show cases initiative in the amount work she puts out for her team and Im sure she will fit in just spectacularly with yours too.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSfCwdmRPRxCZ6O8EtHu-T6byJ6NyaYj1SuDu0ToTwzJiRUJLoRaES1hNVU1fU4BkD53cdNNRAy9-0SXcCoJUmrG2C3dw=w1960-h4244"
-        },
-        {
-            "name": "Rezaar",
-            "surname": "Osman",
-            "quotes": "she is a very passionate person especially when it comes to web development, her adaptability and quick learning skills really inspires me and if a client had to hire her I believe she would deliver.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTnAzuBeI9HE1FeOiqtUT04ra0lK6pBk3IM0A4U0R_5s5lW7W7fV9qdDd4J1lWev0r_jOyt2GvieHpJy5rjOIKcq7Gchg=w600-h1300"
-        },
-        {
-            "name": "Onika",
-            "surname": "Sileku",
-            "quotes": " Her ability to swiftly identify and resolve errors makes her an invaluable asset. Beyond her technical prowess, Sivuyisiwe's passion for continuous learning and willingness to share knowledge make her a standout collaborator. Working with Sivuyisiwe is not just a project; it's an opportunity to elevate the coding experience. Highly recommended.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQnBmt-XRCINlQm8qYbjyHDiW2C9jGNfjvr126QF-iQty0rFIBGSh6eGg323B29jvg4-HGecwQ07jjZZt93jnFkfTxG=w1960-h4244"
-        },
-        {
-            "name": "Pinda",
-            "surname": "fortuin",
-            "quotes": " a remarkable colleague. Her expertise in HTML, CSS, Vue.js, JavaScript, and  is truly impressive, and she effortlessly demonstrates adequate proficiency in these technologies. However, what truly sets Sivuyisiwe apart is his exceptional adapting skills.  I consider myself fortunate to have learned from her, and I wholeheartedly recommend her as an outstanding colleague.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQe8KIVYDkNFy5bFw24GHBBYblHrCfDmtxROyRhE08nSw0vhK7hcNDAzKBiCmFqh8kSUrir3Yh-2PVqpLG_n-cVTjmL_g=w1960-h4244"
-        },
-        {
-            "name": "rethabile",
-            "surname": "Makaotsi",
-            "quotes": " she strives to get her work done to the best potential and executes a well structured work during Projects week.Their ability to transform ideas into functional, visually appealing websites is unparalleled.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRTQ46JaC3bYlmsVMGO6Ofx-hRvBL9jkhDZpjLpHnba3wNGVkJMAnhKOyTjnAa_2flvvXm_OT1VDoQEz4zCUL6EU0tz=w600-h1300"
-        },
-        {
-            "name": "Ntokozo",
-            "surname": "Sithebe",
-            "quotes": ">Working with Sisipho Mafrika in the web development world has been an absolute game-changer for our projects. Sisipho's expertise and passion for web development are truly remarkable. ",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTo2sT5GVim-42H-i8RV2jgCiDlLtrA7TaPTk1uSItECkXDORBz2OAj-Kkp3tHzTSk6HnUuaYmbTToz7AvDNCKmBQjYtA=w1960-h4244"
-        }
+    "skills": [
+      {
+        "title": "bootstrap",
+        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRVNgxGolM8T37PJks65TZ9Fn3_E3EKO-RkXol9HIz0f-YgrPMb0_qB8I-yXziKT87l62FZh1kHxLTW-B95sqFxNP5m=w600-h1300"
+      },
+      {
+        "title": "JAVA SCRIPT",
+        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYT6nBTj_kJ6d40ZA_3yfbfWvpkGFNlDz7V5XooR_vMLjRbc5Z4yKJHLjxoP01JvB9JM6WFnTL2qZBjPrS-IliHkc4RPaQ=w600-h1300"
+      },
+      {
+        "title": "CSS",
+        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRFu8Ohk0zbUmym8luFGoX7HhyoeMig07yCSDAOGoG2BBQeaDdBz5AxolCemV6pzSfD_t0jr1KjcbzsQHyIQbUyZYFVnA=w600-h1300"
+      },
+      {
+        "title": "HTML",
+        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYREnG3rLB1RfAL-C2hOqabrwo4pC5AP0ePGpOpiSrWqn88vnAP20_bt5kIDqFHfkwMFtEJufC7NzXeTY7irnwlvQlCXog=w600-h1300"
+      }
     ],
-      "projects":[
-        {
-            "name": "Coolkinder City",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQkoqVWfj11edR-SjXZLHPdQn3jNFuHnInge2TDSv7izu5nB8g8GX6JZlEB8Q034DzpHzhGjOQEOddcJdNxF_TbmXH_MQ=w600-h1300",
-            "gitHub": "https://github.com/Sisiphomafrika/coolkider-city.git"
-            "netlify": 
-        },
-        {
-            "name": "Netflix",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQkoqVWfj11edR-SjXZLHPdQn3jNFuHnInge2TDSv7izu5nB8g8GX6JZlEB8Q034DzpHzhGjOQEOddcJdNxF_TbmXH_MQ=w600-h1300",
-            "gitHub": " https://sisiphomafrika.github.io/netfilix/"
-            "netlify":"https://bespoke-puppy-41caba.netlify.app/"
-        },
-        {
-            "name": "BMI  Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRCpWWyIVhveOukKdOwwWB-C6l6PxcgykRigExT9UKrMZ21z74GXEZPim_6bgBFLr_OQYkuc4U7b1ngm3LDDEWP4VdB1A=w600-h1300",
-            "gitHub": 
-            "netlify":"https://incandescent-malasada-c710d2.netlify.app/" 
-        },
-        {
-            "name": "eCommerce",
-            "description": "this is an eCommerce I built. I made use of HTML 5, CSS,Java Script and Bootstrap 5.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQLcvlQ9iMuUJ3ej7_xkrNIQamo5Xl4IlFXG0zQNmjCbxMdwa7rAw3bCczb9_XOJq1Rd1ISd0pGw95X58xuUBerNM9X_A=w600-h1300",
-            "gitHub": "https://sisiphomafrika.github.io/revisionexmple/",
-            "netlify": "https://65325680d2a147009015afe9--jolly-cuchufli-34e070.netlify.app/"
-        },
-        {
-            "name": "mobicare",
-            "description": "An eCommerce site built using HTML 5, CSS, and Bootstrap 5",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRI9MR3EBH0lcYkpa8CGJ8tB8qbAnVpejxViawRf5xP2pYvZ0Czk6tBurbDMZ0UI2FILoPzvRLJ0hpCiO9blqi7CX1_=w600-h1300",
-            "gitHub": "https://sisiphomafrika.github.io/revisionexmple/"
-            "netlify": "https://heartfelt-profiterole-de4fcb.netlify.app/"
-            
-        },
-        {
-            "name": "Keyboard",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSRBsbRqqM2DY9Y1sE8Xx0Tp-X3frxSpLnVFcADOMnvU_iktr2viKR7-bUGsT7bx4sddgKcF3abQNKNytHAKBtjFH9qAA=w600-h1300",
-            "gitHub": " https://sisiphomafrika.github.io/keybord/"
-            "netlify": "https://transcendent-travesseiro-73cc42.netlify.app/"
-        }
-    ]  
-    ],
-  
-    
-    
-    }
-
-    
-
-
-
-
-
-
-
-
-
+    "testimonials": [
+      {
+        "name": "Azisiphe",
+        "surname": "Ndoro",
+        "quotes": "Sisipho shows the most enthusiasm in her work of anyone I've ever met. She has shown to be diligent because she always does her work as meticulously as she possibly can. She has an incredible sense of humor and showcases initiative in the amount of work she puts out for her team, and I'm sure she will fit in just spectacularly with yours too.",
+        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSfCwdmRPRxCZ6O8EtHu-T6byJ6NyaYj1SuDu0ToTwzJiRUJLoRaES1hNVU1fU4BkD53cdNNRAy9-0SXcCoJUmrG2C3dw=w1960-h4244"
+      },
+      {
+        "name": "Rezaar",
+        "surname": "Osman",
+        "quotes": "She is a very passionate person, especially when it comes to web development. Her adaptability and quick learning skills really inspire me, and if a client had to hire her, I believe she would deliver.",
+        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTnAzuBeI9HE1FeOiqtUT04ra0lK6pBk3IM0A4U0R_5s5lW7W7fV9qdDd4J1lWev0r_jOyt2GvieHpJy5rjOIKcq7Gchg=w600-h1300"
+      },
+      {
+        "name": "Onika",
+        "surname": "Sileku",
+        "quotes": "Her ability to swiftly identify and resolve errors makes her an invaluable asset. Beyond her technical prowess, Sivuyisiwe's passion for continuous learning and willingness to share knowledge make her a standout collaborator. Working with Sivuyisiwe is not just a project; it's an opportunity to elevate the coding experience. Highly recommended.",
+        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQnBmt-XRCINlQm8qYbjyHDiW2C9jGNfjvr126QF-iQty0rFIBGSh6eGg323B29jvg4-HGecwQ07jjZZt93jnFkfTxG=w1960-h4244"
+      },
+      {
+        "name": "Pinda",
+        "surname": "Fortuin",
+        "quotes": "A remarkable colleague. Her expertise in HTML, CSS, Vue.js, JavaScript, and is truly impressive, and she effortlessly demonstrates adequate proficiency in these technologies. However, what truly sets Sivuyisiwe apart is her exceptional adapting skills. I consider myself fortunate to have learned from her, and I wholeheartedly recommend her as an outstanding colleague.",
+        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQe8KIVYDkNFy5bFw24GHBBYblHrCfDmtxROyRhE08nSw0vhK7hcNDAzKBiCmFqh8kSUrir3Yh-2PVqpLG_n-cVTjmL_g=w1960-h4244"
+      },
+      {
+        "name": "Rethabile",
+        "surname": "Makaotsi",
+        "quotes": "She strives to get her work done to the best potential and executes a well-structured work during Projects week. Their ability to transform ideas into functional, visually appealing websites is unparalleled.",
+        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRTQ46JaC3bYlmsVMGO6Ofx-hRvBL9jkhDZpjLpHnba3wNGVkJMAnhKOyT"
+      }
+    ]
+  }
+}
