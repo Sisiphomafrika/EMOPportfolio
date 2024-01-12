@@ -1,102 +1,50 @@
 {"data":[
-    {"Resume": [
-       {
-         "name": "Education",
-         "description": ""
-       },
-       {
-         "name": "Work Experience",
-         "description": ""
-       },
-       {
-         "name": "Qualifications",
-         "description": ""
-       }
-      ]
-      }
-     ],
-     "Projects": [
-       {
-         "projectName": "Mobcare",
-         "link": " https://sisiphomafrika.github.io/mobcare/" 
-       },
-       {
-         "projectName": "E-commise",
-         "link": "https://sisiphomafrika.github.io/revisionexmple/"
-       },
-       {
-         "projectName": "Calculate",
-         "link": "https://incandescent-malasada-c710d2.netlify.app/"
-       },
-       {
-         "projectName": "Netfilix",
-         "link": "https://sisiphomafrika.github.io/netfilix/"
-       },
-       {
-         "projectName": "Keybord",
-         "link": "https://sisiphomafrika.github.io/keybord/"
-       },
-       {
-         "projectName": "",
-         "link": ""
-       }
-     ],
     "education": [
-       {
-        "id": 1,
-      "year": 2023,
-      "description": "I currently studying web development",
-      "place": "Life Choices",
-      "type": "certificate"
-           
-       },
-       {
-         "id": 2,
-      "year": 2019,
-      "description": "grade 12",
-      "place": "philliph high school",
-      "type": "certificate"
-       },
-       {
-         "id": 3,
-      "year": 2023,
-      "description": "I currently studying web development",
-      "place": "False Bay Collage",
-      "type": "End-User Computer"
-       }
-       
-     ],
-     "Testimonial": [
-       {
-         "name": "Azasiphe",
-         "img_url": "https://drive.google.com/uc?export=download&id=1jBVrc1LkTNpEeRTjYjL27IHNh1kc1sb4",
-         "description": "Sisipho possesses an in-depth knowledge of the latest web technologies and trends, which reflects in the modern and user-friendly websites they create. What sets Sisipho apart is not just their technical skills but also their commitment to understanding the client's needs. They take the time to listen, ask the right questions, and deliver solutions that exceed expectations."
-       },
-       {
-         "name": "Person 2",
-         "img_url": "",
-         "description": "Working with Sisipho Mafrika in the web development world has been an absolute game-changer for our projects. Sisipho's expertise and passion for web development are truly remarkable. Their ability to transform ideas into functional, visually appealing websites is unparalleled"
-       },
-       {
-         "name": "Person 3",
-         "img_url": "",
-         "description": "Collaborating with Sisipho has been a seamless experience. They are not just a developer; they are a valuable team player. Sisipho communicates effectively, provides regular updates, and is always open to feedback, ensuring a smooth workflow throughout the project. Their attention to detail and dedication to delivering high-quality work are truly commendable."
-       },
-       {
-         "name": "Person 4",
-         "img_url": "",
-         "description": "Sisipho's innovative approach to problem-solving and their creative mindset make them a go-to person in the web development community. It's not just about writing code for them; it's about crafting digital experiences that leave a lasting impression. I have no hesitation in recommending Sisipho Mafrika to anyone seeking a passionate, skilled, and reliable web developer. They have the talent to turn visions into reality and make online presence truly impactful"
-       },
-       {
-         "name": "Person 5",
-         "img_url": "",
-         "description": "I have no hesitation in recommending Sisipho Mafrika to anyone seeking a passionate, skilled, and reliable web developer. They have the talent to turn visions into reality and make online presence truly impactful"
-       },
-       {
-         "name": "Person 6",
-         "img_url": "",
-         "description": ""
-       }
-     ]
-   
-   }
+        {
+            "id": 1,
+            "year": 2019,
+            "description": "Grade 12",
+            "place": "Philliph High School",
+            
+        {
+            "id": 2,
+            "year": 2020-2022,
+            "description": "certificate",
+            "place": "False Bay Collage",
+            
+        },
+        {
+            "id": 3,
+            "year": 2023 ,
+            "description": "BootCamp",
+            "place": "LifeChoices Academy",
+            "picture": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRlDGnie83HMZdVXdK2IJkwErE5WDAIKu60ditxpiw-QXfHd-VHPcLaLbPoYK3nAi0cb3bwD_wptZTR4O3X6Vamo9gv3g=w600-h1300"
+        }
+    ],
+    "skills": [
+        {
+            "title": "bootstrap",
+            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRVNgxGolM8T37PJks65TZ9Fn3_E3EKO-RkXol9HIz0f-YgrPMb0_qB8I-yXziKT87l62FZh1kHxLTW-B95sqFxNP5m=w600-h1300"
+        },
+        {
+            "title": "JAVA SCRIPT",
+            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYT6nBTj_kJ6d40ZA_3yfbfWvpkGFNlDz7V5XooR_vMLjRbc5Z4yKJHLjxoP01JvB9JM6WFnTL2qZBjPrS-IliHkc4RPaQ=w600-h1300"
+        },
+        {
+            "title": "CSS",
+            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRFu8Ohk0zbUmym8luFGoX7HhyoeMig07yCSDAOGoG2BBQeaDdBz5AxolCemV6pzSfD_t0jr1KjcbzsQHyIQbUyZYFVnA=w600-h1300"
+        },
+        {
+            "title": "HTML",
+            "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYREnG3rLB1RfAL-C2hOqabrwo4pC5AP0ePGpOpiSrWqn88vnAP20_bt5kIDqFHfkwMFtEJufC7NzXeTY7irnwlvQlCXog=w600-h1300"
+        }
+    ],
+
+
+
+
+
+
+
+
+
