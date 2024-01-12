@@ -19,9 +19,8 @@
             "description": "BootCamp",
             "place": "LifeChoices Academy",
             "picture": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRlDGnie83HMZdVXdK2IJkwErE5WDAIKu60ditxpiw-QXfHd-VHPcLaLbPoYK3nAi0cb3bwD_wptZTR4O3X6Vamo9gv3g=w600-h1300"
-        }
-    ],
-    "skills": [
+        },
+          "skills": [
         {
             "title": "bootstrap",
             "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRVNgxGolM8T37PJks65TZ9Fn3_E3EKO-RkXol9HIz0f-YgrPMb0_qB8I-yXziKT87l62FZh1kHxLTW-B95sqFxNP5m=w600-h1300"
@@ -39,7 +38,7 @@
             "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYREnG3rLB1RfAL-C2hOqabrwo4pC5AP0ePGpOpiSrWqn88vnAP20_bt5kIDqFHfkwMFtEJufC7NzXeTY7irnwlvQlCXog=w600-h1300"
         }
     ],
-    "testimonials": [
+        "testimonials": [
         {
             "name": "Azisiphe",
             "surname": "Ndoro",
@@ -77,7 +76,7 @@
             "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTo2sT5GVim-42H-i8RV2jgCiDlLtrA7TaPTk1uSItECkXDORBz2OAj-Kkp3tHzTSk6HnUuaYmbTToz7AvDNCKmBQjYtA=w1960-h4244"
         }
     ],
-    "projects":[
+      "projects":[
         {
             "name": "Coolkinder City",
             "description": "I built this application using HTML 5, CSS, and Javascript.",
@@ -121,7 +120,11 @@
             "gitHub": " https://sisiphomafrika.github.io/keybord/"
             "netlify": "https://transcendent-travesseiro-73cc42.netlify.app/"
         }
-    ]
+    ]  
+    ],
+  
+    
+    
     }
 
     
