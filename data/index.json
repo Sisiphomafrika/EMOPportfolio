@@ -97,7 +97,7 @@
             "name": "BLACKQUEEN",
             "description": "BLACKQUEEN is an eCommerce I built. I made use of HTML 5, CSS,Java Script and Bootstrap 5.",
             "image": "https://i.ibb.co/LgfzQRz/Screenshot-2023-12-04-094610.png",
-            "gitHub": https://sisiphomafrika.github.io/mobcare/" 
+            "gitHub": "https://sisiphomafrika.github.io/mobcare/" 
             "netlify": "https://heartfelt-profiterole-de4fcb.netlify.app/"
         },
         {
@@ -114,7 +114,6 @@
             "gitHub": "https://github.com//temperatureConvertor.git",
             "netlify": "https://-temperatureconverter.netlify.app/"
         }
-    ]
-}
-  }
-}
+     ]
+
+
