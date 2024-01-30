@@ -1,119 +1,117 @@
 {
-  "data": {
-    "education": [
+  "education": [
+    {
+      "id": 1,
+      "year": 2019,
+      "description": "Grade 12",
+      "place": "Philliph High School"
+    },
+    {
+      "id": 2,
+      "year": 2020,
+      "description": "certificate",
+      "place": "False Bay Collage"
+    },
+    {
+      "id": 3,
+      "year": 2023,
+      "description": "BootCamp",
+      "place": "LifeChoices Academy",
+      "picture": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRlDGnie83HMZdVXdK2IJkwErE5WDAIKu60ditxpiw-QXfHd-VHPcLaLbPoYK3nAi0cb3bwD_wptZTR4O3X6Vamo9gv3g=w600-h1300"
+    }
+  ],
+  "skills": [
+    {
+      "title": "bootstrap",
+      "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRVNgxGolM8T37PJks65TZ9Fn3_E3EKO-RkXol9HIz0f-YgrPMb0_qB8I-yXziKT87l62FZh1kHxLTW-B95sqFxNP5m=w600-h1300"
+    },
+    {
+      "title": "JAVA SCRIPT",
+      "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYT6nBTj_kJ6d40ZA_3yfbfWvpkGFNlDz7V5XooR_vMLjRbc5Z4yKJHLjxoP01JvB9JM6WFnTL2qZBjPrS-IliHkc4RPaQ=w600-h1300"
+    },
+    {
+      "title": "CSS",
+      "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRFu8Ohk0zbUmym8luFGoX7HhyoeMig07yCSDAOGoG2BBQeaDdBz5AxolCemV6pzSfD_t0jr1KjcbzsQHyIQbUyZYFVnA=w600-h1300"
+    },
+    {
+      "title": "HTML",
+      "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYREnG3rLB1RfAL-C2hOqabrwo4pC5AP0ePGpOpiSrWqn88vnAP20_bt5kIDqFHfkwMFtEJufC7NzXeTY7irnwlvQlCXog=w600-h1300"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Azisiphe",
+      "surname": "Ndoro",
+      "quotes": "Sisipho shows the most enthusiasm in her work of anyone I've ever met. She has shown to be diligent because she always does her work as meticulously as she possibly can. She has an incredible sense of humor and showcases initiative in the amount of work she puts out for her team, and I'm sure she will fit in just spectacularly with yours too.",
+      "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSfCwdmRPRxCZ6O8EtHu-T6byJ6NyaYj1SuDu0ToTwzJiRUJLoRaES1hNVU1fU4BkD53cdNNRAy9-0SXcCoJUmrG2C3dw=w1960-h4244"
+    },
+    {
+      "name": "Rezaar",
+      "surname": "Osman",
+      "quotes": "She is a very passionate person, especially when it comes to web development. Her adaptability and quick learning skills really inspire me, and if a client had to hire her, I believe she would deliver.",
+      "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTnAzuBeI9HE1FeOiqtUT04ra0lK6pBk3IM0A4U0R_5s5lW7W7fV9qdDd4J1lWev0r_jOyt2GvieHpJy5rjOIKcq7Gchg=w600-h1300"
+    },
+    {
+      "name": "Onika",
+      "surname": "Sileku",
+      "quotes": "Her ability to swiftly identify and resolve errors makes her an invaluable asset. Beyond her technical prowess, Sivuyisiwe's passion for continuous learning and willingness to share knowledge make her a standout collaborator. Working with Sivuyisiwe is not just a project; it's an opportunity to elevate the coding experience. Highly recommended.",
+      "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQnBmt-XRCINlQm8qYbjyHDiW2C9jGNfjvr126QF-iQty0rFIBGSh6eGg323B29jvg4-HGecwQ07jjZZt93jnFkfTxG=w1960-h4244"
+    },
+    {
+      "name": "Pinda",
+      "surname": "Fortuin",
+      "quotes": "A remarkable colleague. Her expertise in HTML, CSS, Vue.js, JavaScript, and is truly impressive, and she effortlessly demonstrates adequate proficiency in these technologies. However, what truly sets Sivuyisiwe apart is her exceptional adapting skills. I consider myself fortunate to have learned from her, and I wholeheartedly recommend her as an outstanding colleague.",
+      "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQe8KIVYDkNFy5bFw24GHBBYblHrCfDmtxROyRhE08nSw0vhK7hcNDAzKBiCmFqh8kSUrir3Yh-2PVqpLG_n-cVTjmL_g=w1960-h4244"
+    },
+    {
+      "name": "Rethabile",
+      "surname": "Makaotsi",
+      "quotes": "She strives to get her work done to the best potential and executes a well-structured work during Projects week. Their ability to transform ideas into functional, visually appealing websites is unparalleled.",
+      "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRTQ46JaC3bYlmsVMGO6Ofx-hRvBL9jkhDZpjLpHnba3wNGVkJMAnhKOyT"
+    }
+  ],
+    "projects":[
       {
-        "id": 1,
-        "year": 2019,
-        "description": "Grade 12",
-        "place": "Philliph High School"
+          "name": "To-do List",
+          "description": "I built this application using HTML 5, CSS, and Javascript.",
+          "image": "https://i.ibb.co/1bhCMYH/Screenshot-2024-01-11-091408.png",
+          "gitHub": "https://github.com/SIVUPE/To-Do-list.git",
+          "netlify": "https://todolist.netlify.app/"
       },
       {
-        "id": 2,
-        "year": 2020,
-        "description": "certificate",
-        "place": "False Bay Collage"
+          "name": "sign-up",
+          "description": "I built this application using HTML 5, CSS, and Javascript.",
+          "image": "https://i.ibb.co/FXPtrgL/Screenshot-2023-11-03-121254.png",
+          "gitHub": "https://github.com/form.git",
+          "netlify": "https://weportfolio.netlify.app/"
       },
       {
-        "id": 3,
-        "year": 2023,
-        "description": "BootCamp",
-        "place": "LifeChoices Academy",
-        "picture": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRlDGnie83HMZdVXdK2IJkwErE5WDAIKu60ditxpiw-QXfHd-VHPcLaLbPoYK3nAi0cb3bwD_wptZTR4O3X6Vamo9gv3g=w600-h1300"
-      }
-    ],
-    "skills": [
-      {
-        "title": "bootstrap",
-        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRVNgxGolM8T37PJks65TZ9Fn3_E3EKO-RkXol9HIz0f-YgrPMb0_qB8I-yXziKT87l62FZh1kHxLTW-B95sqFxNP5m=w600-h1300"
+          "name": "BMI  Calculator",
+          "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+          "image": "https://i.ibb.co/2vgkbLb/Screenshot-2023-11-03-142250.png",
+  
+          "netlify":"https://incandescent-malasada-c710d2.netlify.app/" 
       },
       {
-        "title": "JAVA SCRIPT",
-        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYT6nBTj_kJ6d40ZA_3yfbfWvpkGFNlDz7V5XooR_vMLjRbc5Z4yKJHLjxoP01JvB9JM6WFnTL2qZBjPrS-IliHkc4RPaQ=w600-h1300"
+          "name": "BLACKQUEEN",
+          "description": "BLACKQUEEN is an eCommerce I built. I made use of HTML 5, CSS,Java Script and Bootstrap 5.",
+          "image": "https://i.ibb.co/LgfzQRz/Screenshot-2023-12-04-094610.png",
+          "gitHub": "https://sisiphomafrika.github.io/mobcare/", 
+          "netlify": "https://heartfelt-profiterole-de4fcb.netlify.app/"
       },
       {
-        "title": "CSS",
-        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRFu8Ohk0zbUmym8luFGoX7HhyoeMig07yCSDAOGoG2BBQeaDdBz5AxolCemV6pzSfD_t0jr1KjcbzsQHyIQbUyZYFVnA=w600-h1300"
+          "name": "mobicare",
+          "description": "An eCommerce site built using HTML 5, CSS, and Bootstrap 5",
+          "image": "https://i.ibb.co/wsNKpyL/medicalnew.png",
+          "gitHub":"https://sisiphomafrika.github.io/mobcare/", 
+          "netlify": "https://vermillion-dusk-797f36.netlify.app/"
       },
       {
-        "title": "HTML",
-        "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYREnG3rLB1RfAL-C2hOqabrwo4pC5AP0ePGpOpiSrWqn88vnAP20_bt5kIDqFHfkwMFtEJufC7NzXeTY7irnwlvQlCXog=w600-h1300"
-      }
-    ],
-    "testimonials": [
-      {
-        "name": "Azisiphe",
-        "surname": "Ndoro",
-        "quotes": "Sisipho shows the most enthusiasm in her work of anyone I've ever met. She has shown to be diligent because she always does her work as meticulously as she possibly can. She has an incredible sense of humor and showcases initiative in the amount of work she puts out for her team, and I'm sure she will fit in just spectacularly with yours too.",
-        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSfCwdmRPRxCZ6O8EtHu-T6byJ6NyaYj1SuDu0ToTwzJiRUJLoRaES1hNVU1fU4BkD53cdNNRAy9-0SXcCoJUmrG2C3dw=w1960-h4244"
-      },
-      {
-        "name": "Rezaar",
-        "surname": "Osman",
-        "quotes": "She is a very passionate person, especially when it comes to web development. Her adaptability and quick learning skills really inspire me, and if a client had to hire her, I believe she would deliver.",
-        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTnAzuBeI9HE1FeOiqtUT04ra0lK6pBk3IM0A4U0R_5s5lW7W7fV9qdDd4J1lWev0r_jOyt2GvieHpJy5rjOIKcq7Gchg=w600-h1300"
-      },
-      {
-        "name": "Onika",
-        "surname": "Sileku",
-        "quotes": "Her ability to swiftly identify and resolve errors makes her an invaluable asset. Beyond her technical prowess, Sivuyisiwe's passion for continuous learning and willingness to share knowledge make her a standout collaborator. Working with Sivuyisiwe is not just a project; it's an opportunity to elevate the coding experience. Highly recommended.",
-        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQnBmt-XRCINlQm8qYbjyHDiW2C9jGNfjvr126QF-iQty0rFIBGSh6eGg323B29jvg4-HGecwQ07jjZZt93jnFkfTxG=w1960-h4244"
-      },
-      {
-        "name": "Pinda",
-        "surname": "Fortuin",
-        "quotes": "A remarkable colleague. Her expertise in HTML, CSS, Vue.js, JavaScript, and is truly impressive, and she effortlessly demonstrates adequate proficiency in these technologies. However, what truly sets Sivuyisiwe apart is her exceptional adapting skills. I consider myself fortunate to have learned from her, and I wholeheartedly recommend her as an outstanding colleague.",
-        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQe8KIVYDkNFy5bFw24GHBBYblHrCfDmtxROyRhE08nSw0vhK7hcNDAzKBiCmFqh8kSUrir3Yh-2PVqpLG_n-cVTjmL_g=w1960-h4244"
-      },
-      {
-        "name": "Rethabile",
-        "surname": "Makaotsi",
-        "quotes": "She strives to get her work done to the best potential and executes a well-structured work during Projects week. Their ability to transform ideas into functional, visually appealing websites is unparalleled.",
-        "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRTQ46JaC3bYlmsVMGO6Ofx-hRvBL9jkhDZpjLpHnba3wNGVkJMAnhKOyT"
+          "name": "Temperature Converter",
+          "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
+          "image": "https://i.ibb.co/gjdsfZ3/Screenshot-2024-01-11-083936.png" ,
+          "gitHub": "https://github.com//temperatureConvertor.git",
+          "netlify": "https://-temperatureconverter.netlify.app/"
       }
     ]
-     "projects":[
-        {
-            "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.ibb.co/1bhCMYH/Screenshot-2024-01-11-091408.png",
-            "gitHub": "https://github.com/SIVUPE/To-Do-list.git",
-            "netlify": "https://todolist.netlify.app/"
-        },
-        {
-            "name": "sign-up",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.ibb.co/FXPtrgL/Screenshot-2023-11-03-121254.png",
-            "gitHub": "https://github.com/form.git",
-            "netlify": "https://weportfolio.netlify.app/"
-        },
-        {
-            "name": "BMI  Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.ibb.co/2vgkbLb/Screenshot-2023-11-03-142250.png",
-            "gitHub": 
-            "netlify":"https://incandescent-malasada-c710d2.netlify.app/" 
-        },
-        {
-            "name": "BLACKQUEEN",
-            "description": "BLACKQUEEN is an eCommerce I built. I made use of HTML 5, CSS,Java Script and Bootstrap 5.",
-            "image": "https://i.ibb.co/LgfzQRz/Screenshot-2023-12-04-094610.png",
-            "gitHub": "https://sisiphomafrika.github.io/mobcare/" 
-            "netlify": "https://heartfelt-profiterole-de4fcb.netlify.app/"
-        },
-        {
-            "name": "mobicare",
-            "description": "An eCommerce site built using HTML 5, CSS, and Bootstrap 5",
-            "image": "https://i.ibb.co/wsNKpyL/medicalnew.png",
-            "gitHub":"https://sisiphomafrika.github.io/mobcare/" 
-            "netlify": "https://vermillion-dusk-797f36.netlify.app/"
-        },
-        {
-            "name": "Temperature Converter",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "https://i.ibb.co/gjdsfZ3/Screenshot-2024-01-11-083936.png" ,
-            "gitHub": "https://github.com//temperatureConvertor.git",
-            "netlify": "https://-temperatureconverter.netlify.app/"
-        }
-     ]
-
-
+}
