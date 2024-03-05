@@ -36,6 +36,25 @@
     {
       "title": "HTML",
       "item": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYREnG3rLB1RfAL-C2hOqabrwo4pC5AP0ePGpOpiSrWqn88vnAP20_bt5kIDqFHfkwMFtEJufC7NzXeTY7irnwlvQlCXog=w600-h1300"
+    },
+    {
+      "id": 1,
+      "year": 2019,
+      "description": "Grade 12",
+      "place": "Philliph High School"
+    },
+    {
+      "id": 2,
+      "year": 2020,
+      "description": "certificate",
+      "place": "False Bay Collage"
+    },
+    {
+      "id": 3,
+      "year": 2023,
+      "description": "BootCamp",
+      "place": "LifeChoices Academy",
+      "picture": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRlDGnie83HMZdVXdK2IJkwErE5WDAIKu60ditxpiw-QXfHd-VHPcLaLbPoYK3nAi0cb3bwD_wptZTR4O3X6Vamo9gv3g=w600-h1300"
     }
   ],
   "testimonials": [
